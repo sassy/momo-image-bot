@@ -1,0 +1,5 @@
+{
+  "bot_token": "slackのtoken",
+  "tumblr_url" : "xxxx.tumblr.com",
+  "tumblr_token": "tumblrのcustomer token"
+}

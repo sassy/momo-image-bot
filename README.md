@@ -1,2 +1,1 @@
-# momo-image-bot
-WIP
+# tumblr-image-bot

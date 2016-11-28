@@ -1,0 +1,23 @@
+{
+  "name": "tumblr-image-bot",
+  "version": "0.0.1",
+  "description": "WIP",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sassy/momo-image-bot.git"
+  },
+  "author": "Satoshi Watanabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sassy/momo-image-bot/issues"
+  },
+  "homepage": "https://github.com/sassy/momo-image-bot#readme",
+  "dependencies": {
+    "botkit": "^0.4.2"
+  }
+}
